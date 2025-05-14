@@ -1,0 +1,15 @@
+C:\Users\20114\source\repos\Project_Q1_sln\Project_Q1\bin\Debug\net5.0\Project_Q1.exe
+C:\Users\20114\source\repos\Project_Q1_sln\Project_Q1\bin\Debug\net5.0\Project_Q1.deps.json
+C:\Users\20114\source\repos\Project_Q1_sln\Project_Q1\bin\Debug\net5.0\Project_Q1.runtimeconfig.json
+C:\Users\20114\source\repos\Project_Q1_sln\Project_Q1\bin\Debug\net5.0\Project_Q1.runtimeconfig.dev.json
+C:\Users\20114\source\repos\Project_Q1_sln\Project_Q1\bin\Debug\net5.0\Project_Q1.dll
+C:\Users\20114\source\repos\Project_Q1_sln\Project_Q1\bin\Debug\net5.0\Project_Q1.pdb
+C:\Users\20114\source\repos\Project_Q1_sln\Project_Q1\obj\Debug\net5.0\Project_Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20114\source\repos\Project_Q1_sln\Project_Q1\obj\Debug\net5.0\Project_Q1.AssemblyInfoInputs.cache
+C:\Users\20114\source\repos\Project_Q1_sln\Project_Q1\obj\Debug\net5.0\Project_Q1.AssemblyInfo.cs
+C:\Users\20114\source\repos\Project_Q1_sln\Project_Q1\obj\Debug\net5.0\Project_Q1.csproj.CoreCompileInputs.cache
+C:\Users\20114\source\repos\Project_Q1_sln\Project_Q1\obj\Debug\net5.0\Project_Q1.dll
+C:\Users\20114\source\repos\Project_Q1_sln\Project_Q1\obj\Debug\net5.0\refint\Project_Q1.dll
+C:\Users\20114\source\repos\Project_Q1_sln\Project_Q1\obj\Debug\net5.0\Project_Q1.pdb
+C:\Users\20114\source\repos\Project_Q1_sln\Project_Q1\obj\Debug\net5.0\Project_Q1.genruntimeconfig.cache
+C:\Users\20114\source\repos\Project_Q1_sln\Project_Q1\obj\Debug\net5.0\ref\Project_Q1.dll

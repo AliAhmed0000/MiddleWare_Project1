@@ -1,0 +1,15 @@
+Income: 
+	work: 12500
+	freelance: 2000
+	gift: 1275
+===================
+Total income: 15775
+===================
+Expenses:
+	rent: 5200
+	grocery: 1700
+	dentist visit: 500
+===================
+Total expenditure: 7400
+===================
+Current balance: 8375
